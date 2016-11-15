@@ -1,0 +1,106 @@
+.main {
+    background-color: #191919;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 400;
+    margin-top: 28px;
+    margin-right: 4px;
+    color: #191919;
+}
+
+h2 {
+    color: #DFE2DB;
+    margin-left: 15px;
+    font-weight: 400;
+}
+
+h3 {
+    color: #DFE2DB;
+    font-size: 32px;
+    font-weight: 100;
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: 200;
+    margin-right: 13px;
+    margin-top: -5px;
+    letter-spacing: 1px;
+    color: #191919;
+}
+
+h1,
+h4 {
+    cursor: default;
+}
+
+.logo {
+    margin-top: 20px;
+}
+
+.grid {
+    max-width: 100%;
+}
+
+a {
+    color: #BCBBBB;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.hover:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+img:hover {
+    cursor: default;
+}
+
+.modal-header {
+    background-color: #DFE2DB;
+}
+
+.modal-title {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 300;
+    color: #191919;
+}
+
+.modal-body {
+    text-align: center;
+    background-color: #191919;
+    font-size: 16px;
+    font-weight: 200;
+    color: #DFE2DB;
+}
+
+.modal-body i {
+    letter-spacing: 0.5px;
+}
+
+.modal-footer {
+    background-color: #DFE2DB;
+}
+
+.btn {
+    margin-right: 250px;
+    padding: 7px 20px;
+    background-color: #02B3E4;
+    border: none;
+    color: #DFE2DB;
+}
+
+.btn:hover {
+    background-color: #02A0CC;
+}
+
+.btn:focus {
+    outline: none;
+    background-color: #018AAF;
+}
